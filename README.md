@@ -1,6 +1,6 @@
 My first NextJS project
 
-Tools used:
+# Tools used:
 - NextJS (Front and backend framework)
 - Socket.io (Managing and sending to the database)
 - Azure cosmos db (NoSQL database)
