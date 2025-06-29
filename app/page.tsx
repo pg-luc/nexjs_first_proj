@@ -1,4 +1,5 @@
 import "../styles/app.css";
+import { Button } from 'antd';
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
       <h1>Process Page</h1>
       <div className="container">
         <h2>Select Supplier</h2>
-        <button>Select Supplier</button>
+        <Button>Select Supplier</Button>
       </div>
     </div>
   );

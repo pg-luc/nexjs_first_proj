@@ -1,0 +1,11 @@
+.container {
+    height: 10rem;
+    border-style: solid;
+    border-width: thin;
+    border-color: slategray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+}
